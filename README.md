@@ -80,3 +80,8 @@ Best val Acc: 0.976471
 
 After that, we save the model. To reuse it in inference!
 
+## Inference:
+
+Trying out `inference.py` script. To show the model predictions:
+[img1](asset/DL2.png)
+
