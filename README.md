@@ -2,7 +2,7 @@
 This repository is my solution for internship task.
 
 # Overview of problem
-Show use the use of transfer learning to train a model on less data (<1000 images) and still getting good results (>80% accuracy) to demonstrate use of transfer learning. You are free to pick a model of your choice and dataset of your choice. (just don’t pick dataset which is already used in initial training).
+> Show use the use of transfer learning to train a model on less data (<1000 images) and still getting good results (>80% accuracy) to demonstrate use of transfer learning. You are free to pick a model of your choice and dataset of your choice. (just don’t pick dataset which is already used in initial training).
 
 For this problem tools used are:
 - Pytorch
