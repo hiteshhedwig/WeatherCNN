@@ -29,7 +29,8 @@ Validation split taken is 0.1
  
 ## Dataset images:
 Let's use torchvision's grid to see what type of images we have in dataset.
-[img](asset/DL1.png)
+
+![img](asset/DL1.png)
 
 ## Data Evaluation criterion:
 Dataset is slightly balanced. So, we can use accuracy as an evaluation term. Otherwise, we could also go for confusion matrix and other things. That we will not be doing in this.
@@ -83,5 +84,6 @@ After that, we save the model. To reuse it in inference!
 ## Inference:
 
 Trying out `inference.py` script. To show the model predictions:
-[img1](asset/DL2.png)
+
+![img1](asset/DL2.png)
 
