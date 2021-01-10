@@ -35,7 +35,7 @@ Let's use torchvision's grid to see what type of images we have in dataset.
 ## Data Evaluation criterion:
 Dataset is slightly balanced. So, we can use accuracy as an evaluation term. Otherwise, we could also go for confusion matrix and other things. That we will not be doing in this.
 
-## Finetuning & Training:
+## Finetuning & Setup:
 Model chosen for the training is : RESNET-18
 We finetune, meaning we change the last dense layer like this. `model_ft.fc = nn.Linear(num_ftrs, 5)`. 5 is number of classes.
 
