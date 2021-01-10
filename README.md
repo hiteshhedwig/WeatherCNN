@@ -16,7 +16,7 @@ Dataset used :
 Check here: https://drive.google.com/drive/folders/19G5O1wd7YJyUo--c6934JyayAAYy5cH7?usp=sharing
 
 # Task solution:
-For easy understanding you can check notebook ______. With easy explaination.
+You can check the notebook `internship_task.ipynb` for combined code.
 
 ## Split dataset into Train and Validation:
 Validation split taken is 0.1
