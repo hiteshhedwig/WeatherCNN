@@ -79,7 +79,9 @@ Best val Acc: 0.976471
 ```
 **We can see that even with less than 800 images. Fine tuning pretrained RESNET-18 model works out to be incredibly well. 97% Accuracy**
 
-After that, we save the model. To reuse it in inference!
+After that, we save the model. To reuse it in inference! 
+
+Saved model : https://drive.google.com/file/d/1gesBMVK0lps2TCddsmFnG-q3hXG3O-Ia/view?usp=sharing
 
 ## Inference:
 
